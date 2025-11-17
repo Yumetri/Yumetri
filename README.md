@@ -6,8 +6,7 @@ I believe in following my inner compass and pursuing meaningful work that create
 
 ## 🔧 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white&label=Code)
-![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript&logoColor=white&label=Code)
-![Static Badge](https://img.shields.io/badge/NestJs-orange?style=flat&logo=nestjs&logoColor=white&label=Code)
+![Static Badge](https://img.shields.io/badge/TypeScript-orange?style=flat&logo=typescript&logoColor=white&label=Code)
 ![Static Badge](https://img.shields.io/badge/Docker-orange?style=flat&logo=docker&logoColor=white&label=Tools)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-orange?style=flat&logo=postgresql&logoColor=white&label=Tools)
 
